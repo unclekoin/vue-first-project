@@ -137,6 +137,19 @@ p {
   border: 2px solid #d8d8d8;
 }
 
+.review-form__recommend {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.review-form__recommend input {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+}
+
 .review-container li {
   margin-bottom: 30px;
 }
